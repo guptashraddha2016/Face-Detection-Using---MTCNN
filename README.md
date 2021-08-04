@@ -1,2 +1,2 @@
 # Face-Detection-Using - MTCNN
-detect the face using MTCNN.
+Detect the face using MTCNN.
