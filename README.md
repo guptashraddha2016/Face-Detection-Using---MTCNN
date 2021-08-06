@@ -5,4 +5,4 @@ Detect the face using MTCNN.
  1.Face Detection using mtcnn (jupyter notebook)
  2. README file
 # Explaination
- Using MTCNN detect the face and create a bounding box around the face.
+Detect the face using  and create a bounding box around the face.
